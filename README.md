@@ -14,7 +14,7 @@ The project aims to:
 
 ## Methods
 
-To analyze these relationships, I’ll utilize visual tools like bar charts, scatter plots, and tables will help show patterns in the data.
+To analyze these relationships, I’ll utilize visual tools like bar charts, scatter plots, and tables to help show patterns in the data.
 
 ## Significance
 
