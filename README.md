@@ -66,13 +66,3 @@ The findings aim to assist mental health practitioners, researchers, and policym
 
 ### License Information
 The dataset is distributed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0). The license allows for usage in non-commercial research.
-
----
-
-## Resources and References
-
-1. **Dataset Access**: [Mental Health and Technology Usage Dataset](https://www.kaggle.com/datasets/waqi786/mental-health-and-technology-usage-dataset)
-2. **License Information**: [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)
-3. **Dataset Documentation**: Documentation available on the Kaggle dataset page.
-
-Additional background references for related research are cited within the report.
