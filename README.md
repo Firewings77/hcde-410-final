@@ -22,6 +22,7 @@ This project aims to address the following questions:
 
 ## Methods
 
+<<<<<<< HEAD
 ### Data Cleaning and Preparation
 - Removed invalid or missing values from key columns such as `Age`, `Screen_Time_Hours`, and `Stress_Level`.
 - Segmented data into relevant groups (e.g., age groups and screen activity types).
@@ -44,6 +45,9 @@ This project aims to address the following questions:
 - **Bar Plot:** Demonstrates variations in technology usage by gender and mental health status.
 
 ---
+=======
+To analyze these relationships, I’ll utilize visual tools like bar charts, scatter plots, and tables to help show patterns in the data.
+>>>>>>> a855c70f6c4e29415285c410a862a110b59601f5
 
 ## Significance
 
